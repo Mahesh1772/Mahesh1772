@@ -14,15 +14,15 @@ Welcome to my GitHub profile! I'm a passionate Computer Engineering student at t
 
 ### TravelMate Itineraries
 
-TravelMate Itineraries is a cross-platform Flutter application I developed as a self-initiated project. It's aimed at crafting personalized itineraries tailored to user preferences and constraints for a seamless travel experience. Key features include a custom attraction categorization algorithm, efficient data management, and seamless dark mode support. Check it out [here](link).
+TravelMate Itineraries is a cross-platform Flutter application I developed as a self-initiated project. It's aimed at crafting personalized itineraries tailored to user preferences and constraints for a seamless travel experience. Key features include a custom attraction categorization algorithm, efficient data management, and seamless dark mode support. Check it out [here](https://github.com/Mahesh1772/ItineraryApp).
 
 ### Orbital
 
-As part of the NUS School of Computing's Orbital program, I developed a cross-platform mobile application in Dart and Flutter. This project aimed at boosting administrative task management for National Service commanders. It achieved a top 5% ranking in a cohort of 500+ students, with notable improvements in efficiency and UI/UX design. Check it out [here](link).
+As part of the NUS School of Computing's Orbital program, I developed a cross-platform mobile application in Dart and Flutter. This project aimed at boosting administrative task management for National Service commanders. It achieved a top 5% ranking in a cohort of 500+ students, with notable improvements in efficiency and UI/UX design. Check it out [here]((https://github.com/Mahesh1772/Orbital).
 
 ### Engineering Principles and Practices: Alex to the Rescue
 
-In collaboration with a team, I spearheaded the development of a remotely operable robot using Raspberry Pi and Arduino for a simulated search-and-rescue scenario. This project showcased my skills in hardware integration, sensor utilization, and software development using ROS (Robot Operating System). Check it out [here](link).
+In collaboration with a team, I spearheaded the development of a remotely operable robot using Raspberry Pi and Arduino for a simulated search-and-rescue scenario. This project showcased my skills in hardware integration, sensor utilization, and software development using ROS (Robot Operating System). Check it out [here](https://github.com/Mahesh1772/CG2111A-Alex).
 
 ## Skills
 
