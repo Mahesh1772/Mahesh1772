@@ -18,7 +18,7 @@ TravelMate Itineraries is a cross-platform Flutter application I developed as a 
 
 ### Orbital
 
-As part of the NUS School of Computing's Orbital program, I developed a cross-platform mobile application in Dart and Flutter. This project aimed at boosting administrative task management for National Service commanders. It achieved a top 5% ranking in a cohort of 500+ students, with notable improvements in efficiency and UI/UX design. Check it out [here]((https://github.com/Mahesh1772/Orbital).
+As part of the NUS School of Computing's Orbital program, I developed a cross-platform mobile application in Dart and Flutter. This project aimed at boosting administrative task management for National Service commanders. It achieved a top 5% ranking in a cohort of 500+ students, with notable improvements in efficiency and UI/UX design. Check it out [here](https://github.com/Mahesh1772/Orbital).
 
 ### Engineering Principles and Practices: Alex to the Rescue
 
