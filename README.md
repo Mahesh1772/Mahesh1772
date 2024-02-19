@@ -3,13 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh1772" alt="mahesh1772" /></a> </p>
 
-- 🔭 I’m currently working on **Itinerary App**
+- 🔭 I’m currently working on [Itinerary App](https://github.com/Mahesh1772/ItineraryApp)
 
 - 🌱 I’m currently learning and exploring **new technologies (Digital Design, Real Time operating systems)**
 
 - 👯 Open to collaborations **eager to contribute to exciting projects!**
 
 - 🤝 I’m looking for **summer time internships**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Mahesh1772](https://github.com/Mahesh1772)
 
 - 💬 Ask me about **Flutter, Dart and C++**
 
