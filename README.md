@@ -1,53 +1,38 @@
-# Hello, I'm Sivagnanam Maheshwaran! 👋
+<h1 align="center">Hi 👋, I'm Sivagnanam Maheshwaran</h1>
+<h3 align="center">A passionate Mobile App developer in Singapore</h3>
 
-Welcome to my GitHub profile! I'm a passionate Computer Engineering student at the National University of Singapore (NUS), driven by a love for technology and a desire to make a positive impact through innovation. Here's a bit about me:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh1772" alt="mahesh1772" /></a> </p>
 
-## About Me
+- 🔭 I’m currently working on **Itinerary App**
 
-- 🎓 Second-year student studying Computer Engineering at NUS
-- 💻 Experienced in software development, mobile app development, and more
-- 🌱 Currently learning and exploring new technologies (Digital Design, Real Time operating systems)
-- 👯‍♂️ Open to collaborations and eager to contribute to exciting projects
-- 🤔 I’m looking for summer time internships
+- 🌱 I’m currently learning and exploring **new technologies (Digital Design, Real Time operating systems)**
 
-## Projects
+- 👯 Open to collaborations **eager to contribute to exciting projects!**
 
-### TravelMate Itineraries
+- 🤝 I’m looking for **summer time internships**
 
-TravelMate Itineraries is a cross-platform Flutter application I developed as a self-initiated project. It's aimed at crafting personalized itineraries tailored to user preferences and constraints for a seamless travel experience. Key features include a custom attraction categorization algorithm, efficient data management, and seamless dark mode support. Check it out [here](https://github.com/Mahesh1772/ItineraryApp).
+- 💬 Ask me about **Flutter, Dart and C++**
 
-### Orbital
+- 📫 How to reach me **sivagnanam.maheshwaran@u.nus.edu**
 
-As part of the NUS School of Computing's Orbital program, I developed a cross-platform mobile application in Dart and Flutter. This project aimed at boosting administrative task management for National Service commanders. It achieved a top 5% ranking in a cohort of 500+ students, with notable improvements in efficiency and UI/UX design. Check it out [here](https://github.com/Mahesh1772/Orbital).
+- 📄 Know about my experiences [https://sway.cloud.microsoft/XX2HrbPHgBXExBBh?ref=Link](https://sway.cloud.microsoft/XX2HrbPHgBXExBBh?ref=Link)
 
-### Engineering Principles and Practices: Alex to the Rescue
+- ⚡ Fun fact **I finished 10 seasons of "friends" within 3 weeks**
 
-In collaboration with a team, I spearheaded the development of a remotely operable robot using Raspberry Pi and Arduino for a simulated search-and-rescue scenario. This project showcased my skills in hardware integration, sensor utilization, and software development using ROS (Robot Operating System). Check it out [here](https://github.com/Mahesh1772/CG2111A-Alex).
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/siva-mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/siva-mahesh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sivagnanam maheshwaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sivagnanam maheshwaran" height="30" width="40" /></a>
+<a href="https://instagram.com/mahesh_messi108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahesh_messi108" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@sivagnanam_mahe2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sivagnanam_mahe2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mahesh_108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahesh_108" height="30" width="40" /></a>
+</p>
 
-## Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-- **Programming Languages**: C/C++, Python, Java, HTML, CSS, Dart
-- **Frameworks**: Flutter, Numpy/Scikit
-- **Database**: Firebase, SQL
-- **Version Control**: GitHub
-- **Hardware Programming**: C/C++, Verilog, Bare-Metal programming in Arduino, Raspberry Pi, ARM, LiDAR Sensor Integration
-- **Software Tools**: ROS (Robot Operating System), Rviz
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh1772&show_icons=true&locale=en&layout=compact" alt="mahesh1772" /></p>
 
-## Contact Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh1772&show_icons=true&locale=en" alt="mahesh1772" /></p>
 
-📫 Feel free to reach out to me via [email](mailto:sivagnanam.maheshwaran@u.nus.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/siva-mahesh)!
-
-<!--
-**Mahesh1772/Mahesh1772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh1772&" alt="mahesh1772" /></p>
