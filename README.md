@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sivagnanam Maheshwaran</h1>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=900&size=25&pause=1500&color=8C25F7&background=12814949&center=true&vCenter=true&random=true&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Sivagnanam+Maheshwaran)
 <h3 align="center">A passionate Mobile App developer in Singapore</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh1772" alt="mahesh1772" /></a> </p>
