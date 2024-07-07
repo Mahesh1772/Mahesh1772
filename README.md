@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sivagnanam.maheshwaran@u.nus.edu**
 
-- 📄 Know about my experiences [https://sway.cloud.microsoft/XX2HrbPHgBXExBBh?ref=Link](https://sway.cloud.microsoft/XX2HrbPHgBXExBBh?ref=Link)
+- 📄 Know about my experiences [Portfolio Page](https://mahesh1772.github.io/PortfolioPage/)
 
 - ⚡ Fun fact **I finished 10 seasons of "friends" within 3 weeks**
 
