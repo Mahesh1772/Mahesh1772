@@ -31,6 +31,7 @@
 <a href="https://instagram.com/mahesh_messi108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahesh_messi108" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sivagnanam_mahe2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sivagnanam_mahe2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mahesh_108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahesh_108" height="30" width="40" /></a>
+<a href="https://github.com/Mahesh1772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mahesh1772" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
