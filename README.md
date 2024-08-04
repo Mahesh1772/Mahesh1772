@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sivagnanam Maheshwaran</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=700&duration=4500&pause=1000&color=A50CF7&center=true&vCenter=true&random=false&width=650&height=75&lines=Mobile+App+Developer!!+%F0%9F%93%B1;Computer+Engineering+Student+%F0%9F%92%BB;Sophomore+Year%2C+NUS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=700&duration=4500&pause=1000&color=A50CF7&center=true&vCenter=true&random=false&width=650&height=75&lines=Mobile+App+Developer!!+%F0%9F%93%B1;Computer+Engineering+Student+%F0%9F%92%BB;Junior+Year%2C+NUS" alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh1772" alt="mahesh1772" /></a> </p>
 
 - 🔭 I’m currently working on [Deep Learning](https://github.com/Mahesh1772/Deep_Learning)
 
-- 🌱 I’m currently learning and exploring **new technologies (Digital Design, Real Time operating systems)**
+- 🌱 I’m currently learning and exploring **new technologies (Computer Vision and MQTT)**
 
 - 👯 Open to collaborations **and eager to contribute to exciting projects!**
 
