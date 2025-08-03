@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on [Deep Learning](https://github.com/Mahesh1772/Deep_Learning)
 
-- 🌱 I’m currently learning and exploring **new technologies (Computer Vision and MQTT)**
+- 🌱 I’m currently learning and exploring **Web Development**
 
 - 👯 Open to collaborations **and eager to contribute to exciting projects!**
 
-- 🤝 I’m looking for **Part-time internship**
+- 🤝 I’m looking for **collaborators**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mahesh1772](https://github.com/Mahesh1772)
+- 👨‍💻 All of my projects are available at [https://github.com/Mahesh1772]([https://github.com/Mahesh1772](https://portfolio-page-one-nu.vercel.app/))
 
-- 💬 Ask me about **Flutter, OpenCV and Pytorch**
+- 💬 Ask me about **Computer Vision, YOLOv8 and Pytorch**
 
 - 📫 How to reach me **sivagnanam.maheshwaran@u.nus.edu**
 
