@@ -14,8 +14,6 @@
 
 - 🤝 I’m looking for **collaborators**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mahesh1772]([https://github.com/Mahesh1772](https://portfolio-page-one-nu.vercel.app/))
-
 - 💬 Ask me about **Computer Vision, YOLOv8 and Pytorch**
 
 - 📫 How to reach me **sivagnanam.maheshwaran@u.nus.edu**
