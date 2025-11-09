@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on [Deep Learning](https://github.com/Mahesh1772/Deep_Learning)
 
-- 🌱 I’m currently learning and exploring **Web Development**
+- 🌱 I’m currently learning and exploring **IoT**
 
-- 👯 Open to collaborations **and eager to contribute to exciting projects!**
+- 🤝 I’m looking for **Friends**
 
-- 🤝 I’m looking for **collaborators**
-
-- 💬 Ask me about **Computer Vision, YOLOv8 and Pytorch**
+- 💬 Ask me about **Computer Vision and Object Detection**
 
 - 📫 How to reach me **sivagnanam.maheshwaran@u.nus.edu**
 
